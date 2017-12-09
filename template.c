@@ -10,13 +10,14 @@
 #include <cstdlib>
 #include <cstring>
 #include <iostream>
-#include <algorithm>
 #include <functional>
+#include <algorithm>
 
 using namespace std;
 
 const int maxn = 110;
 const int INF = 0x3f3f3f3f;
+
 
 /*
     |埃式筛法|
